@@ -3,7 +3,8 @@ body {
   font-family: "Roboto", Arial !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url("./Media/bg-1.jpg");
+  /*background-image: url("./Media/bg-1.jpg");*/
+  background-color: #FFFFFF;
   background-repeat: no-repeat, repeat;
 }
 
